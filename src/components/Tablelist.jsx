@@ -29,7 +29,7 @@ const TableList = ({handleOpen}) => {
   return (
     <div>
       <div className="overflow-x-auto">
-        <table className="table">
+        <table className="table mx-auto w-[90%] mt-4">
           {/* head */}
           <thead>
             <tr>

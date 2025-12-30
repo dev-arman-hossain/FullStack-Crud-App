@@ -21,7 +21,7 @@ const Navbar = ({ onOpen }) => {
               </svg>
             </div>    
           </div>
-          <a className="btn btn-ghost text-xl">daisyUI</a>
+          <a className="btn btn-ghost text-xl">Crud-App</a>
         </div>
         <div className="navbar-center">
           <div className="form-control">
